@@ -1,0 +1,3 @@
+[submodule "summer"]
+	path = summer
+	url = git://github.com/ljc82/summer.git
